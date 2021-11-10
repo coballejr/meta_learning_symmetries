@@ -1,0 +1,12 @@
+setup.py
+symmetries/__init__.py
+symmetries/generate_c6_signals.py
+symmetries/localpca.py
+symmetries/modules.py
+symmetries/toydata.py
+symmetries/training_utils.py
+symmetries.egg-info/PKG-INFO
+symmetries.egg-info/SOURCES.txt
+symmetries.egg-info/dependency_links.txt
+symmetries.egg-info/requires.txt
+symmetries.egg-info/top_level.txt
